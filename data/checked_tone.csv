@@ -1,6 +1,28 @@
-character,mandarin,qionglai,ipa,tone_category,tone_value,source,notes,mandarin_final
-白,bai,,,,checked_tone,,confirmed checked-tone character
-国,guo,,,,checked_tone,,confirmed checked-tone character
-脚,jiao,,,,checked_tone,,confirmed checked-tone character
-铁,tie,,,,checked_tone,,confirmed checked-tone character
-别,bie,,,,checked_tone,,confirmed checked-tone character
+character,mandarin,qionglai,ipa,checked_final,notes
+白,bai,ba,,æ,
+麦,mai,ma,,æ,
+北,bei,bə,,æ,
+国,guo,guæ,,uæ,
+骨,gu,guə,,uə,
+别,bie,bie,,ie,
+铁,tie,tie,,ie,
+不,bu,bə,,ə,
+月,yue,yə,,yə,
+德,de,də,,æ,
+特,te,tə,,æ,
+北,bei,bə,,æ,
+墨,mo,mæ,,æ,
+黑,hei,hæ,,æ,
+热,re,næ,,æ,
+节,jie,jie,,ie,
+接,jie,jie,,ie,
+叶,ye,ie,,ie,
+力,li,lie,,ie,
+谷,gu,guə,,uə,
+六,liu,liuə,,uə,
+陆,lu,luə,,uə,
+读,du,duə,,uə,
+学,xue,ɕyə,,yə,
+决,jue,tɕyə,,yə,
+绿,lü,lyə,,yə,
+缺,que,tɕʰyə,,yə,
